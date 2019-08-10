@@ -18,7 +18,7 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "OO Programming"
+  name = "Coding"
   description = "90%"
 
 [[feature]]
