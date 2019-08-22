@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: B.Sc. in Computer Science
-    institution: University of California - Davis
+    institution: University of California, Davis
     year: 2020
   
 # Social/Academic Networking
@@ -59,4 +59,4 @@ social:
 # user_groups:
 
 ---
-Hi! I'm a senior at the University of California Davis with an interest in cryptography and computer security as well as software product development. My hobbies include bouldering, table tennis, mobile application design, and video games. I volunteer as a tutor at the Academic Assistance Center to help prospective programmers excel in a field that we all share a passion for!
+Hi! I'm a senior at the University of California, Davis with interests in cryptography and software product development. My hobbies include bouldering, table tennis, mobile application design, and video games. I volunteer as a tutor at the Academic Assistance Center to help prospective programmers excel in a field that we all share a passion for!

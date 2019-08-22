@@ -18,27 +18,51 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Tutor"
+  company = "UC Davis Academic and Assistance Center"
+  company_url = "https://tutoring.ucdavis.edu/"
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2019-05-12"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Help undergraduate students understand uses and properties of programming languages, including:
+
+  * Go (concurrency)
+  * Lisp
+  * Prolog
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Warehouse Associate"
+  company = "Amazon, Inc."
+  company_url = "https://www.amazon.com/"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2018-08-12"
+  date_end = "2018-09-12"
+  description = """Picked out customer orders while maintaining high efficiency and quality standards"""
+
+[[experience]]
+  title = "Tutor"
+  company = "TutorMe"
+  company_url = "https://tutorme.com"
+  location = "California"
+  date_start = "2017-09-12"
+  date_end = "2018-02-12"
+  description = """Helped college students understand complex topics, primarily in STEM"""
+
+[[experience]]
+  title = "Civil Engineering Intern"
+  company = "City of Tracy Engineers"
+  company_url = "https://www.ci.tracy.ca.us/?navid=47"
+  location = "California"
+  date_start = "2015-02-12"
+  date_end = "2015-05-12"
+  description = """
+  Responsibilities included:
+
+  * Coordinated with team of engineers
+  * Designed blueprints with AutoCAD
+  * Estimated construction costs
+  """
 
 +++
